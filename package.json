@@ -1,0 +1,9 @@
+{
+  "name": "cra-template-typescript-rxjs",
+  "version": "0.2.0",
+  "main": "template.json",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
